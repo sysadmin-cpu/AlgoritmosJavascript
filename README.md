@@ -1,15 +1,5 @@
 # AlgoritmosJavascript
-# AlgoritmosJavascript2
 
-# AlgoritmosJavascript3
-
-# AlgoritmosJavascript4
-
-# AlgoritmosJavascript5
-
-# AlgoritmosJavascript6
-
-# AlgoritmosJavascript7
 
 Primeros pasos con javascript
 
@@ -31,7 +21,6 @@ dpkg -l  | grep git
 
 this site is for learning [JAVASCRIPT](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ![another image](https://cdn.pixabay.com/photo/2021/02/01/10/13/mandala-5970032_960_720.jpg)
 
