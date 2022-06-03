@@ -1,4 +1,16 @@
 # AlgoritmosJavascript
+# AlgoritmosJavascript2
+
+# AlgoritmosJavascript3
+
+# AlgoritmosJavascript4
+
+# AlgoritmosJavascript5
+
+# AlgoritmosJavascript6
+
+# AlgoritmosJavascript7
+
 Primeros pasos con javascript
 
 1. variables
